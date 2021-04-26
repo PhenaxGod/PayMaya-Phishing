@@ -1,1 +1,0 @@
-# PayMaya Phishing Give Away
