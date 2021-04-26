@@ -4,7 +4,7 @@
 
 - IP Address Logger
 - User Agent Logger
-- cookies Grabber
+- Cookies Grabber
 - With Antibots
 - Block phishing scanner and urlcheck
 
